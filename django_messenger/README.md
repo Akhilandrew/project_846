@@ -1,4 +1,4 @@
-# ChatApp  #
+# ChatApp #
 
 ![](http://g.recordit.co/JYruQDLd0h.gif)
 
@@ -100,6 +100,7 @@ redis-server
 ```
 
 To override default settings, create a local_settings.py file in the chat folder.
+One more thing is that this project is duplicated and is not my own project.
 
 Message prefetch config (load last n messages):
 ```python
